@@ -1,0 +1,48 @@
+﻿  VoxelShape.cpp
+c:\users\ott\documents\svn\homework7\homework7\voxelshape.cpp(92): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  MyArray.cpp
+  main.cpp
+  Export.cpp
+c:\users\ott\documents\svn\homework7\homework7\export.cpp(40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ott\documents\svn\homework7\homework7\export.cpp(41): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ott\documents\svn\homework7\homework7\export.cpp(42): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ott\documents\svn\homework7\homework7\export.cpp(43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ott\documents\svn\homework7\homework7\export.cpp(44): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ott\documents\svn\homework7\homework7\export.cpp(45): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ott\documents\svn\homework7\homework7\export.cpp(49): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ott\documents\svn\homework7\homework7\export.cpp(50): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ott\documents\svn\homework7\homework7\export.cpp(51): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ott\documents\svn\homework7\homework7\export.cpp(53): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ott\documents\svn\homework7\homework7\export.cpp(54): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ott\documents\svn\homework7\homework7\export.cpp(55): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ott\documents\svn\homework7\homework7\export.cpp(57): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ott\documents\svn\homework7\homework7\export.cpp(58): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ott\documents\svn\homework7\homework7\export.cpp(59): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ott\documents\svn\homework7\homework7\export.cpp(61): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ott\documents\svn\homework7\homework7\export.cpp(62): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ott\documents\svn\homework7\homework7\export.cpp(63): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ott\documents\svn\homework7\homework7\export.cpp(187): warning C4018: '<': signed/unsigned mismatch
+c:\users\ott\documents\svn\homework7\homework7\export.cpp(211): warning C4018: '<': signed/unsigned mismatch
+c:\users\ott\documents\svn\homework7\homework7\export.cpp(224): warning C4018: '<': signed/unsigned mismatch
+c:\users\ott\documents\svn\homework7\homework7\export.cpp(231): warning C4018: '<': signed/unsigned mismatch
+c:\users\ott\documents\svn\homework7\homework7\export.cpp(240): warning C4018: '<': signed/unsigned mismatch
+c:\users\ott\documents\svn\homework7\homework7\export.cpp(313): warning C4018: '<': signed/unsigned mismatch
+c:\users\ott\documents\svn\homework7\homework7\myarray.cpp(86): warning C4018: '<': signed/unsigned mismatch
+  c:\users\ott\documents\svn\homework7\homework7\myarray.cpp(83): note: while compiling class template member function 'void MyArray<Triangle>::resize(std::size_t)'
+  c:\users\ott\documents\svn\homework7\homework7\myarray.cpp(72): note: see reference to function template instantiation 'void MyArray<Triangle>::resize(std::size_t)' being compiled
+  c:\users\ott\documents\svn\homework7\homework7\myarray.cpp(8): note: while compiling class template member function 'MyArray<Triangle>::MyArray(void)'
+  c:\users\ott\documents\svn\homework7\homework7\export.cpp(175): note: see reference to function template instantiation 'MyArray<Triangle>::MyArray(void)' being compiled
+  c:\users\ott\documents\svn\homework7\homework7\export.cpp(127): note: see reference to class template instantiation 'MyArray<Triangle>' being compiled
+  BitVector.cpp
+c:\users\ott\documents\svn\homework7\homework7\myarray.cpp(56): warning C4018: '<': signed/unsigned mismatch
+  c:\users\ott\documents\svn\homework7\homework7\myarray.cpp(50): note: while compiling class template member function 'MyArray<bool> &MyArray<bool>::operator =(const MyArray<bool> &)'
+  c:\users\ott\documents\svn\homework7\homework7\bitvector.cpp(12): note: see reference to function template instantiation 'MyArray<bool> &MyArray<bool>::operator =(const MyArray<bool> &)' being compiled
+  c:\users\ott\documents\svn\homework7\homework7\bitvector.h(34): note: see reference to class template instantiation 'MyArray<bool>' being compiled
+c:\users\ott\documents\svn\homework7\homework7\myarray.cpp(86): warning C4018: '<': signed/unsigned mismatch
+  c:\users\ott\documents\svn\homework7\homework7\myarray.cpp(83): note: while compiling class template member function 'void MyArray<bool>::resize(std::size_t)'
+  c:\users\ott\documents\svn\homework7\homework7\myarray.cpp(55): note: see reference to function template instantiation 'void MyArray<bool>::resize(std::size_t)' being compiled
+  c:\users\ott\documents\svn\homework7\homework7\myarray.cpp(16): note: while compiling class template member function 'MyArray<bool>::MyArray(std::size_t)'
+  c:\users\ott\documents\svn\homework7\homework7\bitvector.cpp(12): note: see reference to function template instantiation 'MyArray<bool>::MyArray(std::size_t)' being compiled
+  Generating Code...
+  Homework7.vcxproj -> C:\Users\OTT\Documents\SVN\Homework7\Debug\Homework7.exe
+  Homework7.vcxproj -> C:\Users\OTT\Documents\SVN\Homework7\Debug\Homework7.pdb (Partial PDB)

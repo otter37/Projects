@@ -1,0 +1,11 @@
+﻿  CSG.cpp
+c:\users\ott\documents\svn\homework8\homework8\shape.h(5): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ott\documents\svn\homework8\homework8\shape.h(7): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\ott\documents\svn\homework8\homework8\csg.cpp(58): warning C4018: '<': signed/unsigned mismatch
+c:\users\ott\documents\svn\homework8\homework8\csg.cpp(61): warning C4804: '+=': unsafe use of type 'bool' in operation
+c:\users\ott\documents\svn\homework8\homework8\csg.cpp(61): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\ott\documents\svn\homework8\homework8\csg.cpp(80): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\ott\documents\svn\homework8\homework8\csg.cpp(81): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\ott\documents\svn\homework8\homework8\csg.cpp(82): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Homework8.vcxproj -> C:\Users\OTT\Documents\SVN\Homework8\Debug\Homework8.exe
+  Homework8.vcxproj -> C:\Users\OTT\Documents\SVN\Homework8\Debug\Homework8.pdb (Partial PDB)

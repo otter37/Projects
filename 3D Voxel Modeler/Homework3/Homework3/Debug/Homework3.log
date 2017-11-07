@@ -1,0 +1,22 @@
+﻿  surfaceExtraction.cpp
+c:\users\ott\documents\svn\homework3\homework3\surfaceextraction.cpp(78): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ott\documents\svn\homework3\homework3\surfaceextraction.cpp(79): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ott\documents\svn\homework3\homework3\surfaceextraction.cpp(80): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ott\documents\svn\homework3\homework3\surfaceextraction.cpp(81): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ott\documents\svn\homework3\homework3\surfaceextraction.cpp(82): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ott\documents\svn\homework3\homework3\surfaceextraction.cpp(83): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ott\documents\svn\homework3\homework3\surfaceextraction.cpp(87): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ott\documents\svn\homework3\homework3\surfaceextraction.cpp(88): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ott\documents\svn\homework3\homework3\surfaceextraction.cpp(89): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ott\documents\svn\homework3\homework3\surfaceextraction.cpp(91): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ott\documents\svn\homework3\homework3\surfaceextraction.cpp(92): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ott\documents\svn\homework3\homework3\surfaceextraction.cpp(93): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ott\documents\svn\homework3\homework3\surfaceextraction.cpp(95): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ott\documents\svn\homework3\homework3\surfaceextraction.cpp(96): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ott\documents\svn\homework3\homework3\surfaceextraction.cpp(97): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ott\documents\svn\homework3\homework3\surfaceextraction.cpp(99): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ott\documents\svn\homework3\homework3\surfaceextraction.cpp(100): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ott\documents\svn\homework3\homework3\surfaceextraction.cpp(101): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  LINK : C:\Users\OTT\Documents\SVN\Homework3\Debug\Homework3.exe not found or not built by the last incremental link; performing full link
+  Homework3.vcxproj -> C:\Users\OTT\Documents\SVN\Homework3\Debug\Homework3.exe
+  Homework3.vcxproj -> C:\Users\OTT\Documents\SVN\Homework3\Debug\Homework3.pdb (Partial PDB)

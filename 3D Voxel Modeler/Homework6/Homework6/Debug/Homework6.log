@@ -1,0 +1,29 @@
+﻿  Export.cpp
+c:\users\otter\documents\2355\steott\homework6\homework6\export.cpp(28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\otter\documents\2355\steott\homework6\homework6\export.cpp(29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\otter\documents\2355\steott\homework6\homework6\export.cpp(30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\otter\documents\2355\steott\homework6\homework6\export.cpp(31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\otter\documents\2355\steott\homework6\homework6\export.cpp(32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\otter\documents\2355\steott\homework6\homework6\export.cpp(33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\otter\documents\2355\steott\homework6\homework6\export.cpp(37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\otter\documents\2355\steott\homework6\homework6\export.cpp(38): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\otter\documents\2355\steott\homework6\homework6\export.cpp(39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\otter\documents\2355\steott\homework6\homework6\export.cpp(41): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\otter\documents\2355\steott\homework6\homework6\export.cpp(42): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\otter\documents\2355\steott\homework6\homework6\export.cpp(43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\otter\documents\2355\steott\homework6\homework6\export.cpp(45): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\otter\documents\2355\steott\homework6\homework6\export.cpp(46): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\otter\documents\2355\steott\homework6\homework6\export.cpp(47): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\otter\documents\2355\steott\homework6\homework6\export.cpp(49): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\otter\documents\2355\steott\homework6\homework6\export.cpp(50): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\otter\documents\2355\steott\homework6\homework6\export.cpp(51): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\otter\documents\2355\steott\homework6\homework6\export.cpp(167): warning C4018: '<': signed/unsigned mismatch
+c:\users\otter\documents\2355\steott\homework6\homework6\myarray.cpp(84): warning C4018: '<=': signed/unsigned mismatch
+  c:\users\otter\documents\2355\steott\homework6\homework6\myarray.cpp(82): note: while compiling class template member function 'void MyArray<Triangle>::resize(int)'
+  c:\users\otter\documents\2355\steott\homework6\homework6\myarray.cpp(71): note: see reference to function template instantiation 'void MyArray<Triangle>::resize(int)' being compiled
+  c:\users\otter\documents\2355\steott\homework6\homework6\myarray.cpp(15): note: while compiling class template member function 'MyArray<Triangle>::MyArray(std::size_t)'
+  c:\users\otter\documents\2355\steott\homework6\homework6\export.cpp(109): note: see reference to function template instantiation 'MyArray<Triangle>::MyArray(std::size_t)' being compiled
+  c:\users\otter\documents\2355\steott\homework6\homework6\export.cpp(109): note: see reference to class template instantiation 'MyArray<Triangle>' being compiled
+c:\users\otter\documents\2355\steott\homework6\homework6\myarray.cpp(89): warning C4018: '<': signed/unsigned mismatch
+  Homework6.vcxproj -> C:\Users\OTTER\Documents\2355\steott\Homework6\Debug\Homework6.exe
+  Homework6.vcxproj -> C:\Users\OTTER\Documents\2355\steott\Homework6\Debug\Homework6.pdb (Partial PDB)
